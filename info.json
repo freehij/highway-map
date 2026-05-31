@@ -1,0 +1,56 @@
+{
+    "points": {
+        "spawn": {
+            "name": "The spawn",
+            "x": 0,
+            "z": 0,
+            "date": "Feb 27, 2020",
+            "contributors": "spearmintz",
+            "media": [
+                {
+                    "urls": [
+                        "https://youtube.com/watch?v=Si9oxA5Cfwc"
+                    ],
+                    "description": "The capture of spawn taken in 2025 by BarrySmootherson"
+                }
+            ],
+            "description": "This is where it all begins."
+        },
+        "+x": {
+            "name": "+x Farlands",
+            "x": 12550821,
+            "z": 0,
+            "date": "Feb 21, 2021",
+            "contributors": "FCG (historian, sixene, You, GodBot, CheesyDean)",
+            "media": [
+                {
+                    "urls": [
+                        "https://www.youtube.com/watch?v=rFbh3fesXVE"
+                    ],
+                    "description": "First farlands live on 2beta2t by sixene."
+                }
+            ],
+            "description": "First farlands ever reached on 2beta2t."
+        },
+        "-z": {
+            "name": "-z Farlands",
+            "x": 0,
+            "z": -12550821,
+            "date": "Jun 22, 2022",
+            "contributors": "FreeHij",
+            "media": [
+                {
+                    "urls": [
+                        "https://www.youtube.com/watch?v=5WntOiRD8kc"
+                    ],
+                    "description": "The original capture of reaching the -z farlands."
+                }
+            ],
+            "description": "The (anti) world record time for reaching a destination on 2beta2t. Started on May 9, 2021, took me more than a year </3"
+        }
+    },
+    "tunnels": [
+        ["spawn", "+x"],
+        ["spawn", "-z"]
+    ]
+}
