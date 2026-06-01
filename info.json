@@ -27,17 +27,43 @@
                     "urls": [
                         "https://www.youtube.com/watch?v=rFbh3fesXVE"
                     ],
-                    "description": "First farlands live on 2beta2t by sixene."
+                    "description": "First farlands live on 2beta2t."
                 }
             ],
             "description": "First farlands ever reached on 2beta2t."
+        },
+        "-x": {
+            "name": "-x Farlands",
+            "x": -12550821,
+            "z": 0,
+            "date": "2021",
+            "contributors": "CheesyDean",
+            "media": [
+            ],
+            "description": ""
+        },
+        "+z": {
+            "name": "+z Farlands",
+            "x": 0,
+            "z": 12550821,
+            "date": "Jun 06, 2022",
+            "contributors": "Sphere16",
+            "media": [
+                {
+                    "urls": [
+                        "https://cdn.discordapp.com/attachments/1377758735082193006/1510922014175662101/2022-06-29_11.38.18.png?ex=6a1e9347&is=6a1d41c7&hm=c7e3574a95f1f58a529c52fb897532c4940c3dadfd15d9d77727063e164d5020&"
+                    ],
+                    "description": "The original capture of reaching the +z farlands."
+                }
+            ],
+            "description": ""
         },
         "-z": {
             "name": "-z Farlands",
             "x": 0,
             "z": -12550821,
             "date": "Jun 22, 2022",
-            "contributors": "FreeHij",
+            "contributors": "FreeHij and CheesyDean",
             "media": [
                 {
                     "urls": [
@@ -46,11 +72,249 @@
                     "description": "The original capture of reaching the -z farlands."
                 }
             ],
-            "description": "The (anti) world record time for reaching a destination on 2beta2t. Started on May 9, 2021, took freehij more than a year </3"
+            "description": "The (anti) world record time for reaching a destination on 2beta2t. Started on May 9, 2021, took me more than a year lol."
+        },
+        "+x+z": {
+            "name": "+x +z Corner Farlands",
+            "x": 12550821,
+            "z": 12550821,
+            "date": "Mar 28, 2021",
+            "contributors": "FCG (You, GodBot, sixene)",
+            "media": [
+                {
+                    "urls": [
+                        "https://cdn.discordapp.com/attachments/808018680051007499/825807124088094780/pog.png?ex=6a1dd751&is=6a1c85d1&hm=1cc1fef9d27787879bbf557a79bff5c8c9224e8d926a3d65e08212d2ee7cbd32&",
+                        "https://cdn.discordapp.com/attachments/808018680051007499/825807238698106900/pog1.png?ex=6a1dd76c&is=6a1c85ec&hm=e6e638d1c309d8b36b42c19badc99d73d0d3e8a054a866fa077ac386e6f2d01f&",
+                        "https://cdn.discordapp.com/attachments/808018680051007499/825807245610451004/pog2.png?ex=6a1dd76e&is=6a1c85ee&hm=905d592f72e0575c73cc9f28552d9e49630ec77b4ed506230d67d703b4ab7f83&"
+                    ],
+                    "description": "The original capture of +x +z corner farlands from 2021 by You. (taken from FCG discord server)"
+                }
+            ],
+            "description": "First corner farlands ever reached on 2beta2t."
+        },
+        "+x-z": {
+            "name": "+x -z Corner Farlands",
+            "x": 12550821,
+            "z": -12550821,
+            "date": "",
+            "contributors": "RandomGuy (tunnel from +x), Denl (tunnel from -z)",
+            "media": [
+            ],
+            "description": ""
+        },
+        "-x-z": {
+            "name": "-x -z Corner Farlands",
+            "x": -12550821,
+            "z": -12550821,
+            "date": "Nov 22,",
+            "contributors": "YawningCheese",
+            "media": [
+                {
+                    "urls": [
+                        "https://www.youtube.com/watch?v=JaK9LUCe2LY"
+                    ],
+                    "description": "The original capture of reaching -x -z corner farlands."
+                }
+            ],
+            "description": ""
+        },
+        "+x32m": {
+            "name": "+x 32m",
+            "x": 32000000,
+            "z": 0,
+            "date": "Aug 26, 2024",
+            "contributors": "FreeHij, ZydeXG, RandomGuy",
+            "media": [
+                {
+                    "urls": [
+                        "https://www.youtube.com/watch?v=QnpyNAUyg5g"
+                    ],
+                    "description": "The original capture of reaching the +x 32m."
+                }
+            ],
+            "description": "32m on +x finally reached 3 years later!"
+        },
+        "-x32m": {
+            "name": "-x 32m",
+            "x": -32000000,
+            "z": 0,
+            "date": "May 20, 2021",
+            "contributors": "CheesyDean",
+            "media": [
+            ],
+            "description": "The first ever 32m (crash border) reached on 2beta2t."
+        },
+        "+z32m": {
+            "name": "+z 32m",
+            "x": 0,
+            "z": 32000000,
+            "date": "Jun 1, 2024",
+            "contributors": "FreeHij",
+            "media": [
+                {
+                    "urls": [
+                        "https://www.youtube.com/watch?v=QlYja-c0-KU"
+                    ],
+                    "description": "The original capture of reaching the +z 32m."
+                }
+            ],
+            "description": "NOTE: This milestone was reached due to a server rollback, it has NO STRAIGHT TUNNEL AS OF NOW."
+        },
+        "-z32m": {
+            "name": "-z 32m",
+            "x": 0,
+            "z": -32000000,
+            "date": "Jun 3, 2023",
+            "contributors": "FreeHij",
+            "media": [
+                {
+                    "urls": [
+                        "https://www.youtube.com/watch?v=14PkN2jFlA0"
+                    ],
+                    "description": "The original capture of reaching the -z 32m."
+                }
+            ],
+            "description": ""
+        },
+        "+x+z32m": {
+            "name": "+x +z Corner 32m",
+            "x": 32000000,
+            "z": 32000000,
+            "date": "Jan 23, 2022",
+            "contributors": "FCG (You, GodBot, sixene, CheesyDean, Sphere16, BarrySmootherson)",
+            "media": [
+                {
+                    "urls": [
+                        "https://www.youtube.com/watch?v=IvtivPtblAw"
+                    ],
+                    "description": ""
+                }
+            ],
+            "description": "The first ever corner 32m reached on 2beta2t."
+        },
+        "+x-z32m": {
+            "name": "+x -z Corner 32m",
+            "x": 32000000,
+            "z": -32000000,
+            "date": "Sep 7, 2025",
+            "contributors": "RandomGuy",
+            "media": [
+            ],
+            "description": ""
+        },
+        "-x-z32m": {
+            "name": "-x -z Corner 32m",
+            "x": -32000000,
+            "z": -32000000,
+            "date": "Dec 7, 2025",
+            "contributors": "YawningCheese",
+            "media": [
+            ],
+            "description": ""
+        },
+        "nether-x": {
+            "name": "Nether -x Farlands",
+            "x": -100406568,
+            "z": 0,
+            "date": "Sep 4, 2021",
+            "contributors": "CheesyDean",
+            "media": [
+            ],
+            "description": ""
+        },
+        "nether+x+z": {
+            "name": "Nether +x +z Corner Farlands",
+            "x": 100406568,
+            "z": 100406568,
+            "date": "Oct 17, 2024",
+            "contributors": "FCG, xyzi, wsndow, GameHerobrine, FreeHij",
+            "media": [
+                {
+                    "urls": [
+                        "https://www.youtube.com/watch?v=pAcfcDCyKYM"
+                    ],
+                    "description": "Reaching nether +x +z corner farlands live."
+                }
+            ],
+            "description": ""
+        },
+        "nether+x-z": {
+            "name": "Nether +x -z Corner Farlands",
+            "x": 100406568,
+            "z": -100406568,
+            "date": "Dec 3, 2025",
+            "contributors": "RandomGuy",
+            "media": [
+            ],
+            "description": ""
+        },
+        "nether+x+z32m": {
+            "name": "Nether +x +z Corner 32m",
+            "x": 256000000,
+            "z": 256000000,
+            "date": "Dec 6, 2024",
+            "contributors": "wsndow, GameHerobrine, FreeHij",
+            "media": [
+                {
+                    "urls": [
+                        "https://www.youtube.com/watch?v=FKc-wwkyY1Y"
+                    ],
+                    "description": "Reaching nether +x +z corner 32m live."
+                },
+                {
+                    "urls": [
+                        "https://www.reddit.com/r/2beta2t/comments/1h893zz/32m_32m_nether_was_reached"
+                    ],
+                    "description": "Reddit post."
+                }
+            ],
+            "description": ""
+        },
+        "+z28.8m": {
+            "name": "+z 28.8m",
+            "x": 0,
+            "z": 28800000,
+            "date": "",
+            "contributors": "FreeHij",
+            "media": [
+                {
+                    "urls": [
+                        "https://www.youtube.com/watch?v=2o6AkGZvz58"
+                    ],
+                    "description": "The original capture of reaching +z 28.8m."
+                }
+            ],
+            "description": "This milestone was originally reached by a complete accident due to a server rollback."
+        },
+        "-z28.8m": {
+            "name": "-z 28.8m",
+            "x": 0,
+            "z": -28800000,
+            "date": "",
+            "contributors": "FreeHij",
+            "media": [
+            ],
+            "description": "The current end of -z tunnel. It used to end at 32m but due to a server rollback the tunnel was wiped."
         }
     },
     "tunnels": [
         ["spawn", "+x"],
-        ["spawn", "-z"]
+        ["spawn", "-x"],
+        ["spawn", "+z"],
+        ["spawn", "-z"],
+        ["+x", "+x+z"],
+        ["+x", "+x-z"],
+        ["-x", "-x-z"],
+        ["-z", "+x-z"],
+        ["+x", "+x32m"],
+        ["-x", "-x32m"],
+        ["-z", "-z28.8m"],
+        ["+x+z", "+x+z32m"],
+        ["+x-z", "+x-z32m"],
+        ["-x-z", "-x-z32m"],
+        ["-x32m", "nether-x"],
+        ["+x+z32m", "nether+x+z32m"],
+        ["+x-z32m", "nether+x-z"],
+        ["+z28.8m", "+z32m"]
     ]
 }
