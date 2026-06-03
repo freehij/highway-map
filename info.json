@@ -199,6 +199,7 @@
             "date": "Sep 7, 2025",
             "contributors": "RandomGuy",
             "media": [
+                
             ],
             "description": ""
         },
@@ -209,6 +210,12 @@
             "date": "Dec 7, 2025",
             "contributors": "YawningCheese",
             "media": [
+                {
+                    "urls": [
+                        "https://www.youtube.com/watch?v=i_5I0631cbk"
+                    ],
+                    "description": "The original capture of reaching of -x -z corner 32m."
+                }
             ],
             "description": ""
         },
@@ -245,6 +252,12 @@
             "date": "Dec 3, 2025",
             "contributors": "RandomGuy",
             "media": [
+                {
+                    "urls": [
+                        "https://www.youtube.com/watch?v=nKnctVvVrxk"
+                    ],
+                    "description": "The original capture of reaching nether +x -z corner farlands."
+                }
             ],
             "description": ""
         },
