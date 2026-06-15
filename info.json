@@ -102,11 +102,21 @@
             ],
             "description": ""
         },
+        "-x+z": {
+            "name": "-x +z Corner Farlands",
+            "x": -12550821,
+            "z": 12550821,
+            "date": "Jun 15, 2026",
+            "contributors": "YawningCheese, FreeHij, RandomGuy",
+            "media": [
+            ],
+            "description": "The final farlands to be reached on 2beta2t!"
+        },
         "-x-z": {
             "name": "-x -z Corner Farlands",
             "x": -12550821,
             "z": -12550821,
-            "date": "Nov 22,",
+            "date": "Nov 22, 2025",
             "contributors": "YawningCheese",
             "media": [
                 {
@@ -315,6 +325,7 @@
         ["spawn", "-x"],
         ["spawn", "+z"],
         ["spawn", "-z"],
+        ["spawn", "-x+z"],
         ["+x", "+x+z"],
         ["+x", "+x-z"],
         ["-x", "-x-z"],
