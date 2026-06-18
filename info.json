@@ -213,6 +213,16 @@
             ],
             "description": ""
         },
+        "-x+z32m": {
+            "name": "-x +z Corner 32m",
+            "x": -32000000,
+            "z": 32000000,
+            "date": "June 18, 2026",
+            "contributors": "FreeHij, RandomGuy, YawningCheese",
+            "media": [
+            ],
+            "description": "The final milestone of overworld to be reached on 2beta."
+        },
         "-x-z32m": {
             "name": "-x -z Corner 32m",
             "x": -32000000,
