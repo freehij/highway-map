@@ -220,6 +220,12 @@
             "date": "June 18, 2026",
             "contributors": "FreeHij, RandomGuy, YawningCheese",
             "media": [
+                {
+                    "urls": [
+                        "https://www.youtube.com/watch?v=Myh8gAgvRhM"
+                    ],
+                    "description": "-x+z 32m32m video by RandomGuy"
+                }
             ],
             "description": "The final milestone of overworld to be reached on 2beta."
         },
