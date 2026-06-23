@@ -255,6 +255,22 @@
             ],
             "description": ""
         },
+        "nether+z": {
+            "name": "Nether +z Farlands",
+            "x": 0,
+            "z": 100406568,
+            "date": "Jun 21, 2026",
+            "contributors": "FreeHij",
+            "media": [
+                {
+                    "urls": [
+                        "https://www.youtube.com/watch?v=r-lJpQinZmo"
+                    ],
+                    "description": ""
+                }
+            ],
+            "description": ""
+        },
         "nether+x+z": {
             "name": "Nether +x +z Corner Farlands",
             "x": 100406568,
@@ -354,6 +370,7 @@
         ["-x+z", "-x+z32m"],
         ["-x-z", "-x-z32m"],
         ["-x32m", "nether-x"],
+        ["+z32m", "nether+z"],
         ["+x+z32m", "nether+x+z32m"],
         ["+x-z32m", "nether+x-z"],
         ["+z28.8m", "+z32m"]
